@@ -15,7 +15,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  "arrays!" = array.pop
+  arrays! = array.pop
 end
 
 #famous_cats = ["lil' bub", "grumpy cat", "Maru"]
