@@ -18,12 +18,6 @@ def remove_element_from_end_of_array(array)
   array.pop
 end
 
-#famous_cats = ["lil' bub", "grumpy cat", "Maru"]
-#maru_cat = famous_cats.pop
- #famous_cats #=> ["lil' bub", "grumpy cat"]
-	#maru_cat #=> Maru
-
-
 def remove_element_from_start_of_array(array)
 
 end
